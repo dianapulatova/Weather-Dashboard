@@ -1,0 +1,33 @@
+.navbar-brand {
+    font-size: 36px;
+}
+
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
+div p{
+    color:white;
+}
+.border{
+    background-color:grey;
+}
+.bg-light{
+    background-color: ;
+}
+
+/* #color{
+    background-color: pink;
+} */
+*{
+    background-image: image(https://cdn.givingcompass.org/wp-content/uploads/2019/12/02081412/Climate-Change-and-the-New-Language-of-Weather-800x450.jpg);
+   
+}
